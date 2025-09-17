@@ -11,13 +11,13 @@ h1{
     line-height:5rem;
 }
 .choice{
-    height: 100px;
+    height: 100px; 
     width: 100px;
     border-radius: 50%;
 }
 
 .choice:hover{
     cursor: pointer;
-    background-color: black;;
+    background-color: black;
 
 }
